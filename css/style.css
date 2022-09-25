@@ -91,3 +91,37 @@ ion-icon {
     font-weight: bold
 
 }
+
+
+/*contato*/
+
+.btn-primary {
+    width: 80px;
+    height: 55px;
+    background-color: rgba(194,178,180,255);
+    
+}
+
+.form-control {
+    width: 600px;
+    
+}
+
+.form-label {
+    color: gray;
+    
+}
+
+.pre-footer {
+    background-color: rgba(83,104,126,255);
+    color: #eeecf0;
+}
+
+.pre-footer ion-icon {
+    color: #eeecf0;
+}
+ 
+footer {
+    background-color: rgba(26,37,47,255);
+    color: #eeecf0;
+}
